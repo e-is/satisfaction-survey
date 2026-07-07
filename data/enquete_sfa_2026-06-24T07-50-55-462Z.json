@@ -1,0 +1,65 @@
+{
+  "header": {
+    "client": "SFA",
+    "clientReferent": {
+      "firstName": "Juliette",
+      "lastName": "Lucas",
+      "service": ""
+    },
+    "eisReferent": {
+      "firstName": "Étienne",
+      "lastName": "de Chavagnac"
+    },
+    "project": "Nouveautés SIH",
+    "date": "2026-06-24",
+    "details": "Ajout de fonctionnalité et mise à niveau"
+  },
+  "ratings": {
+    "gestion": {
+      "importance": 4,
+      "evaluation": 6
+    },
+    "strategique": {
+      "importance": 5,
+      "evaluation": 6
+    },
+    "anticipation": {
+      "importance": 3,
+      "evaluation": 6
+    },
+    "livrables": {
+      "importance": 4,
+      "evaluation": 5
+    },
+    "solutions": {
+      "importance": 4,
+      "evaluation": 6
+    },
+    "competences": {
+      "importance": 3,
+      "evaluation": 8
+    },
+    "budget": {
+      "importance": 4,
+      "evaluation": 8
+    },
+    "tarifs": {
+      "importance": 4,
+      "evaluation": 5
+    },
+    "calendrier": {
+      "importance": 4,
+      "evaluation": 1
+    },
+    "reactivite": {
+      "importance": 4,
+      "evaluation": 7
+    }
+  },
+  "comments": "Très bon projet",
+  "allowAppreciationPublication": true,
+  "allowNamePublication": true,
+  "type": "Fin de projet",
+  "perimetre": "",
+  "comptabilise": true
+}

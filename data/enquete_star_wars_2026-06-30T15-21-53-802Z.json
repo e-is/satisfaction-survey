@@ -1,0 +1,65 @@
+{
+  "header": {
+    "client": "Star Wars",
+    "clientReferent": {
+      "firstName": "Han",
+      "lastName": "Solo",
+      "service": "Pilot staff"
+    },
+    "eisReferent": {
+      "firstName": "Luke",
+      "lastName": "Skywalker"
+    },
+    "project": "Millenium Faclon",
+    "date": "2026-06-30",
+    "details": "Fastest ship in the galaxy"
+  },
+  "ratings": {
+    "gestion": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "strategique": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "anticipation": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "livrables": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "solutions": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "competences": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "budget": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "tarifs": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "calendrier": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "reactivite": {
+      "importance": 6,
+      "evaluation": 10
+    }
+  },
+  "appreciation": "Bugs? Why did it have to be bugs?",
+  "allowAppreciationPublication": true,
+  "allowNamePublication": true,
+  "type": "Enquête annuelle",
+  "perimetre": "Depuis la dernière enquête",
+  "comptabilise": true
+}

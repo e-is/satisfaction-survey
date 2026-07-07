@@ -1,0 +1,109 @@
+{
+  "title": "Satisfaction survey",
+  "subtitle": "Environmental Information Systems",
+  "menu": {
+    "results": "Results management"
+  },
+  "typeSection": {
+    "title": "Survey type",
+    "type": "Type",
+    "perimeter": "Scope",
+    "projectEnd": "End of project",
+    "annualSurvey": "Annual survey",
+    "yearElapsed": "Elapsed year",
+    "sinceLast": "Since last survey"
+  },
+  "generalInfo": {
+    "title": "General information",
+    "date": "Date",
+    "client": "Client",
+    "projectName": "Project name",
+    "clientReferent": "Client referent",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "service": "Department",
+    "eisReferent": "E-IS Referent",
+    "details": "Details / Context"
+  },
+  "satisfaction": {
+    "title": "Your satisfaction level",
+    "instructions": "For each of the following criteria, please rate its importance to you, and then our performance.",
+    "importance": "Importance",
+    "evaluation": "Evaluation",
+    "notEvaluated": "Not rated",
+    "importanceLabel": "Criterion importance (1 to 6)",
+    "evaluationLabel": "Service evaluation (1 to 10)"
+  },
+  "chart": {
+    "synthesis": "Graphical synthesis",
+    "subtitle": "These charts represent the product of importance and evaluation for each criterion (max score: 60).",
+    "scoreName": "Overall score",
+    "costsDelays": "Costs & Deadlines"
+  },
+  "globalScore": {
+    "title": "Overall score",
+    "cumulated": "Cumulated score / maximum",
+    "subtitle": "Product of importance and evaluation for each criterion"
+  },
+  "appreciation": {
+    "title": "Overall feedback",
+    "placeholder": "Enter here any general remarks, advice, or feedback about our service...",
+    "pubTitle": "Publication of testimonials",
+    "pubAppreciation": "I authorise E-IS to publish my overall feedback on its website.",
+    "pubName": "I authorise E-IS to associate my name and company name with this publication."
+  },
+  "submit": "Submit survey",
+  "submitting": "Submitting...",
+  "legends": {
+    "importance": {
+      "title": "1. Degree of importance",
+      "note": "Score",
+      "signification": "Meaning",
+      "6": "Extremely important",
+      "5": "Very important",
+      "4": "Relatively important",
+      "3": "Somewhat important",
+      "2": "Slightly important",
+      "1": "Not important at all"
+    },
+    "evaluation": {
+      "title": "2. Service evaluation",
+      "note": "Score",
+      "signification": "Evaluation",
+      "10": "Exceptional",
+      "9": "Excellent",
+      "8": "Very good",
+      "7": "Good",
+      "6": "Above average",
+      "5": "Average",
+      "4": "Below average",
+      "3": "Weak",
+      "2": "Very weak",
+      "1": "Insufficient"
+    }
+  },
+  "categories": {
+    "qualite": "1. Quality of service",
+    "cout": "2. Cost",
+    "delais": "3. Deadlines"
+  },
+  "criteria": {
+    "gestion": "Project management",
+    "strategique": "Consideration of strategic and functional challenges",
+    "anticipation": "Anticipation of needs",
+    "livrables": "Quality of deliverables",
+    "solutions": "Relevance of solutions provided",
+    "competences": "Suitability of the project team's skills",
+    "budget": "Budget / fixed-price compliance",
+    "tarifs": "Pricing competitiveness",
+    "calendrier": "Schedule compliance",
+    "reactivite": "Responsiveness"
+  },
+  "validation": {
+    "requiredField": "Please fill in this field.",
+    "allRatings": "Please complete the importance and evaluation for all criteria.",
+    "success": "Thank you for your feedback! The survey was submitted successfully.",
+    "error": "An error occurred.",
+    "connError": "Unable to reach the server. Please try again."
+  }
+}

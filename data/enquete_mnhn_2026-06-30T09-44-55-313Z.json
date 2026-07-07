@@ -1,0 +1,65 @@
+{
+  "header": {
+    "client": "MNHN",
+    "clientReferent": {
+      "firstName": "Albert",
+      "lastName": "Einstein",
+      "service": "E=mC²"
+    },
+    "eisReferent": {
+      "firstName": "Gérard",
+      "lastName": "Mansoif"
+    },
+    "project": "Chnabro à gratules",
+    "date": "2026-06-30",
+    "details": "Immersion dans la faune marine des Alpes Bretonnes"
+  },
+  "ratings": {
+    "gestion": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "strategique": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "anticipation": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "livrables": {
+      "importance": 5,
+      "evaluation": 10
+    },
+    "solutions": {
+      "importance": 6,
+      "evaluation": 5
+    },
+    "competences": {
+      "importance": 2,
+      "evaluation": 8
+    },
+    "budget": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "tarifs": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "calendrier": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "reactivite": {
+      "importance": 6,
+      "evaluation": 10
+    }
+  },
+  "appreciation": "C'est d'la balle atomique!",
+  "allowAppreciationPublication": true,
+  "allowNamePublication": false,
+  "type": "Enquête annuelle",
+  "perimetre": "Depuis la dernière enquête",
+  "comptabilise": true
+}

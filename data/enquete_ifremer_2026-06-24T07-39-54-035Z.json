@@ -1,0 +1,65 @@
+{
+  "header": {
+    "client": "Ifremer",
+    "clientReferent": {
+      "firstName": "Vincent",
+      "lastName": "Badts",
+      "service": ""
+    },
+    "eisReferent": {
+      "firstName": "Étienne",
+      "lastName": "de Chavagnac"
+    },
+    "project": "ObsFish",
+    "date": "2026-06-23",
+    "details": "Reconnaissance de l'espèce depuis photos"
+  },
+  "ratings": {
+    "gestion": {
+      "importance": 4,
+      "evaluation": 6
+    },
+    "strategique": {
+      "importance": 6,
+      "evaluation": 7
+    },
+    "anticipation": {
+      "importance": 4,
+      "evaluation": 4
+    },
+    "livrables": {
+      "importance": 5,
+      "evaluation": 4
+    },
+    "solutions": {
+      "importance": 5,
+      "evaluation": 9
+    },
+    "competences": {
+      "importance": 4,
+      "evaluation": 7
+    },
+    "budget": {
+      "importance": 3,
+      "evaluation": 6
+    },
+    "tarifs": {
+      "importance": 4,
+      "evaluation": 8
+    },
+    "calendrier": {
+      "importance": 4,
+      "evaluation": 3
+    },
+    "reactivite": {
+      "importance": 3,
+      "evaluation": 4
+    }
+  },
+  "comments": "Bon projet dans l'ensemble.",
+  "allowAppreciationPublication": true,
+  "allowNamePublication": true,
+  "type": "Fin de projet",
+  "perimetre": "",
+  "comptabilise": true
+}

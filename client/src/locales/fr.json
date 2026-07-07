@@ -1,0 +1,109 @@
+{
+  "title": "Enquête de satisfaction",
+  "subtitle": "Environmental Information Systems",
+  "menu": {
+    "results": "Gestion des résultats"
+  },
+  "typeSection": {
+    "title": "Type d'enquête",
+    "type": "Type",
+    "perimeter": "Périmètre",
+    "projectEnd": "Fin de projet",
+    "annualSurvey": "Enquête annuelle",
+    "yearElapsed": "Année écoulée",
+    "sinceLast": "Depuis la dernière enquête"
+  },
+  "generalInfo": {
+    "title": "Informations générales",
+    "date": "Date",
+    "client": "Client",
+    "projectName": "Nom du projet",
+    "clientReferent": "Référent client",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "service": "Service",
+    "eisReferent": "Référent E-IS",
+    "details": "Détails / Contexte"
+  },
+  "satisfaction": {
+    "title": "Votre niveau de satisfaction",
+    "instructions": "Pour chacun des critères suivants, merci d'évaluer son importance pour vous, puis notre performance.",
+    "importance": "Importance",
+    "evaluation": "Évaluation",
+    "notEvaluated": "Non évalué",
+    "importanceLabel": "Importance du critère (1 à 6)",
+    "evaluationLabel": "Évaluation de la prestation (1 à 10)"
+  },
+  "chart": {
+    "synthesis": "Synthèse graphique",
+    "subtitle": "Ces graphiques représentent le produit de l'importance par l'évaluation pour chaque critère (score max : 60).",
+    "scoreName": "Score Global",
+    "costsDelays": "Coûts & Délais"
+  },
+  "globalScore": {
+    "title": "Score global",
+    "cumulated": "Score cumulé / maximum",
+    "subtitle": "Produit de l'importance par l'évaluation pour chaque critère"
+  },
+  "appreciation": {
+    "title": "Appréciation globale",
+    "placeholder": "Renseignez ici toute remarque, conseil ou avis général sur notre prestation...",
+    "pubTitle": "Publication des témoignages",
+    "pubAppreciation": "J'autorise E-IS à publier mon appréciation globale sur son site internet.",
+    "pubName": "J'autorise E-IS à associer mon nom et celui de mon entreprise à cette publication."
+  },
+  "submit": "Soumettre l'enquête",
+  "submitting": "Envoi en cours...",
+  "legends": {
+    "importance": {
+      "title": "1. Degré d'importance",
+      "note": "Note",
+      "signification": "Signification",
+      "6": "Extrêmement important",
+      "5": "Très important",
+      "4": "Relativement important",
+      "3": "Assez important",
+      "2": "Légèrement important",
+      "1": "Pas du tout important"
+    },
+    "evaluation": {
+      "title": "2. Évaluation de la prestation",
+      "note": "Note",
+      "signification": "Appréciation",
+      "10": "Exceptionnelle",
+      "9": "Excellente",
+      "8": "Très bonne",
+      "7": "Bonne",
+      "6": "Au-dessus de la moyenne",
+      "5": "Moyenne",
+      "4": "En dessous de la moyenne",
+      "3": "Faible",
+      "2": "Très faible",
+      "1": "Insuffisante"
+    }
+  },
+  "categories": {
+    "qualite": "1. Qualité de la prestation",
+    "cout": "2. Coût",
+    "delais": "3. Délais"
+  },
+  "criteria": {
+    "gestion": "Gestion du projet",
+    "strategique": "Prise en compte des enjeux stratégiques et fonctionnels",
+    "anticipation": "Anticipation des besoins",
+    "livrables": "Qualité des livrables",
+    "solutions": "Pertinence des solutions apportées",
+    "competences": "Adéquation des compétences de l'équipe projet",
+    "budget": "Respect du budget / forfait",
+    "tarifs": "Compétitivité des tarifs",
+    "calendrier": "Respect du calendrier",
+    "reactivite": "Réactivité"
+  },
+  "validation": {
+    "requiredField": "Merci de renseigner ce champ.",
+    "allRatings": "Merci de renseigner l'importance et l'évaluation pour tous les critères.",
+    "success": "Merci pour votre retour ! L'enquête a été enregistrée avec succès.",
+    "error": "Une erreur est survenue.",
+    "connError": "Impossible de joindre le serveur. Merci de réessayer."
+  }
+}

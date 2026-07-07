@@ -1,0 +1,65 @@
+{
+  "header": {
+    "client": "Toto",
+    "clientReferent": {
+      "firstName": "Albert",
+      "lastName": "Finney",
+      "service": ""
+    },
+    "eisReferent": {
+      "firstName": "Étienne",
+      "lastName": "de Chavagnac"
+    },
+    "project": "Titi",
+    "date": "2026-06-24",
+    "details": "bsvcjk;"
+  },
+  "ratings": {
+    "gestion": {
+      "importance": 3,
+      "evaluation": 7
+    },
+    "strategique": {
+      "importance": 4,
+      "evaluation": 7
+    },
+    "anticipation": {
+      "importance": 4,
+      "evaluation": 8
+    },
+    "livrables": {
+      "importance": 4,
+      "evaluation": 5
+    },
+    "solutions": {
+      "importance": 4,
+      "evaluation": 8
+    },
+    "competences": {
+      "importance": 4,
+      "evaluation": 8
+    },
+    "budget": {
+      "importance": 6,
+      "evaluation": 10
+    },
+    "tarifs": {
+      "importance": 5,
+      "evaluation": 7
+    },
+    "calendrier": {
+      "importance": 4,
+      "evaluation": 6
+    },
+    "reactivite": {
+      "importance": 4,
+      "evaluation": 9
+    }
+  },
+  "comments": "Parfait!",
+  "allowAppreciationPublication": false,
+  "allowNamePublication": false,
+  "type": "Fin de projet",
+  "perimetre": "",
+  "comptabilise": true
+}
